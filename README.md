@@ -1,4 +1,4 @@
-## 🚫 *Sorry this site contains so much bugs i dont have time to fix the but ill soon so please ignore this*
+## 🚫🐞🚨 *Sorry this site contains so much bugs i dont have time to fix the but ill soon so please ignore this*
 
 
 

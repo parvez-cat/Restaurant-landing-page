@@ -1,3 +1,7 @@
+## 🚫 *Sorry this site contains so much bugs i dont have time to fix the but ill soon so please ignore this*
+
+
+
 🍽️ Foodies - Landing Page
 
 A simple and responsive food landing page built using HTML and CSS. It features a clean design with a navbar, hero section, and call-to-action buttons.

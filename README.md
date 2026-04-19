@@ -16,4 +16,12 @@ A simple and responsive food landing page built using HTML and CSS. It features 
 
 🌐 Live Demo
 
-(Add your link here)
+https://parvez-cat.github.io/Restaurant-landing-page/
+
+📞 Contact
+
+https://wa.me/918432945248/
+
+👨🏻‍💻 Author
+
+Parvez-cat

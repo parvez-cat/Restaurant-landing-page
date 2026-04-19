@@ -1,2 +1,19 @@
-# Restaurant-landing-page
-A simple and responsive food landing page showcasing fresh and healthy meals. It includes a modern navbar, hero section, and call-to-action buttons, designed using HTML and CSS with a clean UI and mobile-friendly layout.
+🍽️ Foodies - Landing Page
+
+A simple and responsive food landing page built using HTML and CSS. It features a clean design with a navbar, hero section, and call-to-action buttons.
+
+🚀 Features
+
+- Responsive design
+- Modern UI
+- Navbar with menu links
+- Hero section with buttons
+
+🛠️ Tech Stack
+
+- HTML
+- CSS
+
+🌐 Live Demo
+
+(Add your link here)
